@@ -1,23 +1,83 @@
-## Hi there 👋
+<div align="center">
 
-I am a physicist and mathematical engineer with passion for computational physics, AI, and quantum computing.
+<h1>Juan C. Gonzalez</h1>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> </p>
+<p>Physicist · AI Engineer · Quantum Computing  Milan, Italy</p>
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jucgonzalezes&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  <a href="http://juangonzalez.info"><img src="https://img.shields.io/badge/🌐 Website-juangonzalez.info-blue?style=flat-square&color=0A66C2"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/juan-carlos-gonzalez-espitia-539b1580/"><img src="https://img.shields.io/badge/LinkedIn-juan--carlos--gonzalez-0A66C2?style=flat-square&logo=linkedin"/></a>
+  &nbsp;
+  <!-- <img src="https://img.shields.io/badge/IBM-Milan-054ADA?style=flat-square&logo=ibm"/> -->
+</p>
 
-**jucgonzalezes/jucgonzalezes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About me
+
+I'm a physicist and mathematical engineer working at the intersection of **quantum computing**, **AI**, and **computational physics** — currently based in Milan.
+
+I build open-source tools to make cutting-edge research more accessible, and I'm always open to collaborating on projects that push the boundaries of what's computable.
+
+---
+
+## 🔬 Featured projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/jucgonzalezes/qencore">⚛ qencore</a></h3>
+      <p>Python package for quantum convex interpolation via convex splines and VQLSs. Useful for variational quantum algorithms.</p>
+      <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white"/>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/jucgonzalezes/BayesianQT">🔬 BayesianQT</a></h3>
+      <p>Bayesian Quantum State Tomography — reconstructing quantum states from measurement data using probabilistic inference.</p>
+      <img src="https://img.shields.io/badge/Jupyter-DA5B0B?style=flat-square&logo=jupyter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/★ 4-ffd700?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/jucgonzalezes/JC_Hamiltonian">🧮 JC_Hamiltonian</a></h3>
+      <p>Solver for the Jaynes-Cummings Hamiltonian — a foundational model in cavity quantum electrodynamics.</p>
+      <img src="https://img.shields.io/badge/Jupyter-DA5B0B?style=flat-square&logo=jupyter&logoColor=white"/>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/jucgonzalezes/tutorials">📚 tutorials</a></h3>
+      <p>Educational notebooks on quantum computing, ML, and computational physics — great for newcomers.</p>
+      <img src="https://img.shields.io/badge/Jupyter-DA5B0B?style=flat-square&logo=jupyter&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠 Tech stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+</p>
+
+---
+
+## 📈 GitHub stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=jucgonzalezes&hide_border=true&mode=weekly" height="160"/>
+</div>
