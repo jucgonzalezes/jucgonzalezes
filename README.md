@@ -2,7 +2,7 @@
 
 <h1>Juan C. Gonzalez</h1>
 
-<p>Physicist · AI Engineer · Quantum Computing  Milan, Italy</p>
+<p>AI Engineer • Physicist • Quantum Computing  • Milan, Italy</p>
 
 <p>
   <a href="http://juangonzalez.info"><img src="https://img.shields.io/badge/🌐 Website-juangonzalez.info-blue?style=flat-square&color=0A66C2"/></a>
