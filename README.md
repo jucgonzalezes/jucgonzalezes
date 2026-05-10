@@ -5,7 +5,7 @@
 <p>AI Engineer • Physicist • Quantum Computing  • Milan, Italy</p>
 
 <p>
-  <a href="http://juangonzalez.info"><img src="https://img.shields.io/badge/🌐 Website-juangonzalez.info-blue?style=flat-square&color=0A66C2"/></a>
+  <a href="https://jucgonzalezes.github.io/"><img src="https://img.shields.io/badge/🌐 Website-juangonzalez.info-blue?style=flat-square&color=0A66C2"/></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/juan-carlos-gonzalez-espitia-539b1580/"><img src="https://img.shields.io/badge/LinkedIn-juan--carlos--gonzalez-0A66C2?style=flat-square&logo=linkedin"/></a>
   &nbsp;
